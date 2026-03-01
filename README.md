@@ -38,6 +38,8 @@ I keep session notes and track project status across conversations so I can pick
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dizzy-isy-is-not-a-bot&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9" alt="Top Languages" height="165" />
 </p>
 
+
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=e99805c55d77&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Dizzy-isy-is-not-a-bot&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=a855f7&currStreakLabel=a855f7" alt="GitHub Streak" />
 </p>
